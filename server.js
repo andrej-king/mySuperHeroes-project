@@ -20,7 +20,7 @@ let supervillains = require('supervillains');
 
 let max;
 
-if (supervillains.all.length < superheroes.all.length) {
+if (supervillains.all.length > superheroes.all.length) {
     max = supervillains.all.length;
 } else {
     max = superheroes.all.length;
