@@ -10,6 +10,7 @@
   "author": "Pedchenko Andrii",
   "license": "ISC",
   "devDependencies": {
-    "superheroes": "^3.0.0"
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
   }
 }
